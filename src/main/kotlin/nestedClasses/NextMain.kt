@@ -1,0 +1,4 @@
+package nestedClasses
+
+class NextMain {
+}
